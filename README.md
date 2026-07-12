@@ -14,6 +14,19 @@ I am a cybersecurity learner building practical skills through hands-on labs, Tr
 - Web Security
 - Python for Cybersecurity
 - Git & GitHub
+- ## 🛠 Skills
+
+- Linux
+- Networking
+- Python
+- Git & GitHub
+- SQL Injection (Basics)
+- Web Security
+- TryHackMe Labs
+
+## 🎯 Career Goal
+
+To become a professional Cybersecurity Analyst by continuously learning, practicing hands-on labs, and building real-world cybersecurity projects.
 
 ## 📂 Repository Structure
 
